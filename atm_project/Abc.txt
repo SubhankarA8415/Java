@@ -1,0 +1,14 @@
+Debited: 200000.0rs Date-Time: 03/07/2024 20:42:28
+Available Balance: 4800000.0
+Credited: 50000.0rs Date-Time: 03/07/2024 20:42:39
+Available Balance: 4850000.0
+Debited: 4000000.0rs Date-Time: 03/07/2024 20:43:06
+Available Balance: 850000.0
+Credited: 1000000.0rs Date-Time: 03/07/2024 20:45:18
+Available Balance: 1850000.0
+Debited: 500000.0rs Date-Time: 03/07/2024 20:49:55
+Available Balance: 1350000.0
+Credited: 200000.0rs Date-Time: 03/07/2024 20:50:11
+Available Balance: 1550000.0
+Debited: 500000.0rs Date-Time: 03/07/2024 20:51:57
+Available Balance: 1050000.0

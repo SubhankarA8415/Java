@@ -1,0 +1,4 @@
+Debited: 10000.0rs Date-Time: 03/07/2024 20:57:16
+Available Balance: 10000.0
+Credited: 5000.0rs Date-Time: 03/07/2024 20:57:23
+Available Balance: 15000.0
