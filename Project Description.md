@@ -1,6 +1,6 @@
 #  OIBSIP
 
-The atm_project description
+* The atm_project description
 
 running component -> main.java inside src folder of atm_project.
 
@@ -22,9 +22,7 @@ There are two category of files included:
 I have tried to handle as much possible exceptions that can be commonly generated during execution of the program. 
 
 
-
-
-The number guessing game description
+* The number guessing game description
 
 running component -> game.java inside src folder of number_guessing. 
 
