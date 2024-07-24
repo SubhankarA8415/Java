@@ -22,6 +22,8 @@ There are two category of files included:
 I have tried to handle as much possible exceptions that can be commonly generated during execution of the program. 
 
 
+
+
 The number guessing game description
 
 running component -> game.java inside src folder of number_guessing. 
