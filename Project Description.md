@@ -2,7 +2,7 @@
 
 The atm_project description
 
-running component -> main.java inside src folder. 
+running component -> main.java inside src folder of atm_project.
 
 Description: This project includes a demonstration of an atm interface with some realistic features. 
 There are total 5 operations we can perform
@@ -24,6 +24,6 @@ I have tried to handle as much possible exceptions that can be commonly generate
 
 The number guessing game description
 
-running component -> game.java inside src folder of number guessing game. 
+running component -> game.java inside src folder of number_guessing. 
 
 Description:
