@@ -15,6 +15,7 @@ I have included file operations to make it more realistic, with this project one
 There are two category of files included:
 1) It is named as data and it is used to store the username, password and balance of the existing user as soon as the user creates his/her account it will be stored in the data.txt file. 
 2) And the second file is generated in as username.txt of the existing user and it will be created as soon as the user will do some transactions and this file keeps on storing the transaction history, the history is stored mentioning the type of transaction as debit or credit to his/her account and it will keep on updating the balance in thr file mentioning the date and time of the transaction and whenever the user will terminate the program the final updated balance of the user will get updated in the data.txt file. 
+
 I have tried to handle as much possible exceptions that can be commonly generated during execution of the program. 
 
 
