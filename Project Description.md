@@ -26,4 +26,4 @@ I have tried to handle as much possible exceptions that can be commonly generate
 
 running component -> game.java inside src folder of number_guessing. 
 
-Description:
+Description: This game is a simple java code including simple Math.random() to generate a random number between 1 and 100 and the user is required to guess the number with 6 maximum attempts possible 
