@@ -1,5 +1,3 @@
-#  OIBSIP
-
 * The atm_project description
 
 running component -> main.java inside src folder of atm_project.
