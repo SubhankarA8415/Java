@@ -91,5 +91,11 @@ A small fun console game where:
 
 ---
 
-# 📁 Repository Structure (Recommended)
+## 📞 Contact
+
+**Subhankar Pandit**  
+**Full Stack Developer | Backend Engineer | AI/ML**  
+**GitHub**: https://github.com/SubhankarA8415  
+**LinkedIn**: https://linkedin.com/in/subhankar-pandit   
+
 
